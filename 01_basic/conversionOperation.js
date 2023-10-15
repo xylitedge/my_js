@@ -30,3 +30,14 @@ let isLoggeedIn = ""
 
 let booleanIsLoggedin = Boolean(isLoggeedIn)
 console.log(booleanIsLoggedin)
+
+
+
+
+
+let snum = 18
+let con_Num = String(snum)
+console.log(con_Num)
+console.log(typeof con_Num)
+
+
